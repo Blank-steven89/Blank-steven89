@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blank-steven89
 - 👀 I’m interested in travelling, taking photos, coding（fresh area to me）
 - 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on peo
+
 
 
 <!---
